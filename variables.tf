@@ -1,3 +1,9 @@
+variable "vpc_name"{}
+variable "igw_name"{}
+variable "route_name"{}
+variable "subnet_name"{}
+variable "vpc_cidr"{}
+variable "subnet_cidr"{}
 variable "ami"{}
 variable "instancetype"{}
 variable "ec2_name"{}
