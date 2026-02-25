@@ -1,0 +1,5 @@
+ec2_name = "mydvs"
+subnetid = "subnet-058510d1467a8b83c"
+keyname = "parimala_keypair"
+ami = "ami-0c1fe732b5494dc14"
+instancetype = "t2.micro"
